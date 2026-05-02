@@ -1,3 +1,3 @@
 #config
 
-BOT_TOKEN = ''
+BOT_TOKEN = '8578493579:AAFuJ6f4GoOgHCzWebvUc0HfiiD0I7YliJw'
